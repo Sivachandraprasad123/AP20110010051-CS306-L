@@ -2,7 +2,7 @@
 int main()
 {
  int a,b=067,c=1000;
- printf("My name is Siva Chandra Prasad");
+ printf("My name is Panguluri.Siva Chandra Prasad");
  if((a+b)>c)
  printf("sum is greater than c");
 else
