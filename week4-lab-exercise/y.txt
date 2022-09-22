@@ -10,7 +10,7 @@
  a is identifier,
  b is identifier
  = is Assignment operator
- 067 is digit,
+ 051 is digit,
  c is identifier
  = is Assignment operator
  1000 is digit;
